@@ -1,5 +1,5 @@
-//ENV FILES DETAILS
-.env 
+/*--ENV FILES DETAILS(.env)--*/
+ 
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:8z4V6upylAwLvpsKVXsX0HVX3ETgvxIYssBmkcCRhkY=
